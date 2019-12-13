@@ -1,11 +1,15 @@
+The project was made for Udacity Advanced Machine Learning Nano Degree.
+
+To check the project in details see the Proposal and Project pdf file in which details of the project are written.
+
+To work on the project-
 The module to be installed is keras which is necessary for the execution of the project.
-I created a ipython file but failed to make it work on it as it requires keras to function.
 I will include both my python file and ipython notebook file for the review in the code folder.
 
 The Capstone Proposal review link is-
-https://review.udacity.com/#!/reviews/1251377
+https://review.udacity.com/#!/reviews/1334395
 You can download the project from this link-
-https://review-api.udacity.com/api/v1/submissions/1251377/archive
+https://review-api.udacity.com/api/v1/submissions/1334395/archive
 
 As for execution-
 1. Download the dataset from https://my.pcloud.com/publink/show?code=VZvzMlZyPYO1hSn92LXdzmGNr9y1j7qKDzX
